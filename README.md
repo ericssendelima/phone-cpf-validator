@@ -86,7 +86,7 @@ Vamos construir algo ainda mais incrível juntos!
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) (você precisará criar este arquivo!) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 ---
 
